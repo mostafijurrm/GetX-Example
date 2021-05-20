@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:getx_example/routes/pages.dart';
 import 'package:getx_example/routes/routes.dart';
-import 'package:getx_example/screens/home_screen.dart';
+import 'package:getx_example/screens/home/home_screen.dart';
 
 void main() {
   runApp(MyApp());
